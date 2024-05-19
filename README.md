@@ -1,4 +1,6 @@
-![Header](https://github.com/AngryAndrii/AngryAndrii/blob/main/assets/parrot.jpg)
+<!-- ![Header](https://github.com/AngryAndrii/AngryAndrii/blob/main/assets/parrot.jpg) -->
+
+![Header](<img src="http://github.com/AngryAndrii/AngryAndrii/blob/main/assets/parrot.jpg" width="500" />)
 
 ## 🌐 Socials:
 
