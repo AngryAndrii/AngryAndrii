@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">Python developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngryAndrii&label=Profile%20views&color=0e75b6&style=flat" alt="angryandrii" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=AngryAndrii&label=Profile%20views&color=0e75b6&style=flat" alt="angryandrii" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
